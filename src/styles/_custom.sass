@@ -2,14 +2,31 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    left: 18%
+    z-index: 2
   &-2
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 8%
+    z-index: 2
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    bottom: 12%
+    left: 23%
+    z-index: 2
+  &-4
+    animation: spinner 15s infinite linear
+    position: absolute
+    top: 18%
+    right: 5%
 
+.banner-principal__img
+    img
+      z-index: 1
+      position: relative
 
 @keyframes float1
   0%
@@ -17,3 +34,132 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes spinner
+  0% 
+      transform: rotate(0deg)
+  100% 
+      transform: rotate(1turn)
+
+.banner-principal__componente
+  h1
+    color: black
+.banner-principal__descripcion
+  p
+    color: black
+
+  // Tarjeta icono suspendido ----------------
+.t-2-nivel1-tarjeta
+  height: 4em
+.t-2-nivel2-tarjeta
+  height: 12em
+  border-radius: 20px
+.t-2-nivel3-tarjeta
+  margin-top: -4em
+.bg-01
+  background-color: #ACD382
+.bg-02
+  background-color: #EAF086
+
+
+// Card colores
+.color-primario-card
+  background: #EDF6E4
+  &::before
+    background-color: $color-primario
+
+// titulo h3
+.color_texto_acento
+  color: $color-acento-contenido
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: $color-secundario 
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em 
+
+
+.altura_1
+  height: 20em
+.altura_border
+  height: 8em
+  border-radius: 20px
+
+.bg-03
+  background-color: #EBF5E0
+
+.bg-04
+  background-color: #ACD382
+
+.bg-05
+  background-color: #EAF086
+
+.bg-06
+  background-color: #F8FAD6
+
+.cajon-color-1
+  background: #FEE9E0
+  &::before
+    background-color: #F85316
+
+.color-acento-botones_1
+  background: #F8FAD6
+  border: 3px solid #DCE736
+
+.img-infografica__item__numero
+  color: white !important
+
+.h-1
+  width: 100%
+  padding: 1em !important
+
+.tarjeta--s1
+  background: #FAFCE1
+  .slyder-a__btn--atrs,.slyder-a__btn--sigt
+    background-color: #DCE736
+  .slyder-a__bullets__item
+    background-color: #F0F5A5
+  .slyder-a__bullets__item--active
+    background-color: #3D46C2
+
+.tarjeta--boton
+  background-color: $color-acento-contenido !important
+  max-height: 20em
+
+.color-black
+  color: white
+
+///// Custom acordeon A tipo A --------------------------------------
+
+.tarjeta.acordeonA
+  background-color: #F6F6F6
+
+.acordion__accion__btn--a
+  background-color: $color-secundario
+
+.acordion__activo
+  background-color: #FCFDEA !important 
+
+.color-icon-check
+  color: #F85316
+
+.fz-13
+  .tabs-a__tab__text
+    font-size: 13px

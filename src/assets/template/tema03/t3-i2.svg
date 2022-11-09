@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="82" viewBox="0 0 82 82">
+  <g id="Grupo_116522" data-name="Grupo 116522" transform="translate(-760 -1413)">
+    <g id="Grupo_53259" data-name="Grupo 53259" transform="translate(765 1418)">
+      <g id="Elipse_3952" data-name="Elipse 3952" transform="translate(-5 -5)" fill="#fff" stroke="#3d46c1" stroke-width="2">
+        <circle cx="41" cy="41" r="41" stroke="none"/>
+        <circle cx="41" cy="41" r="40" fill="none"/>
+      </g>
+      <g id="Capa_1" data-name="Capa 1" transform="translate(11.615 11.615)">
+        <g id="Grupo_116129" data-name="Grupo 116129" transform="translate(0.884 0.884)">
+          <path id="Trazado_170523" data-name="Trazado 170523" d="M2.7,0H45.9V32.417H0V2.7A2.7,2.7,0,0,1,2.7,0Z" transform="translate(5.983 45.96) rotate(-90)" fill="#dce736"/>
+          <g id="Grupo_116128" data-name="Grupo 116128">
+            <g id="Grupo_116125" data-name="Grupo 116125" transform="translate(5.999)">
+              <path id="Trazado_170524" data-name="Trazado 170524" d="M43.741,13.885h5v29a4,4,0,1,1-8,0v-42h-32v24" transform="translate(-8.739 -0.884)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+              <path id="Trazado_170525" data-name="Trazado 170525" d="M44.741,57.4h-32a4,4,0,0,1-4-4v-8" transform="translate(-8.739 -11.402)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+            </g>
+            <g id="Grupo_116127" data-name="Grupo 116127" transform="translate(0 16.998)">
+              <g id="Grupo_116126" data-name="Grupo 116126" transform="translate(14 0)">
+                <rect id="Rectángulo_42711" data-name="Rectángulo 42711" width="18.001" height="4" rx="0.707" transform="translate(18.001 4) rotate(180)" fill="#3d46c1" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+                <rect id="Rectángulo_42712" data-name="Rectángulo 42712" width="18.001" height="4" rx="0.707" transform="translate(18.001 24.003) rotate(180)" fill="#3d46c1" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+                <rect id="Rectángulo_42713" data-name="Rectángulo 42713" width="12.001" height="16.002" transform="translate(15 20.002) rotate(180)" fill="#3d46c1" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+              </g>
+              <path id="Trazado_170526" data-name="Trazado 170526" d="M21.908,40.929h-2a2,2,0,0,1-2-2v-2a2,2,0,0,1,2-2h2" transform="translate(-4.907 -25.927)" fill="#3d46c1" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+              <path id="Trazado_170527" data-name="Trazado 170527" d="M13.885,40.238h-13v-4h13" transform="translate(-0.884 -26.236)" fill="#3d46c1" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+            </g>
+            <line id="Línea_611" data-name="Línea 611" x2="17.998" transform="translate(16.002 5)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+            <line id="Línea_612" data-name="Línea 612" x2="24" transform="translate(10 9)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+            <line id="Línea_613" data-name="Línea 613" x2="24" transform="translate(10 13.001)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+            <line id="Línea_614" data-name="Línea 614" x1="1.999" transform="translate(12.001 5)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.768"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
