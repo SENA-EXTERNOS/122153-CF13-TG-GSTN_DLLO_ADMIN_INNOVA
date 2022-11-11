@@ -2,12 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno(icono='fas fa-tasks', titulo='Actividad didáctica')
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
-        span
-          i.fas.fa-info
-      h1 Actividad didáctica
-
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-lg-12.mb-4.mb-md-0
         .titulo-segundo.mb-0
