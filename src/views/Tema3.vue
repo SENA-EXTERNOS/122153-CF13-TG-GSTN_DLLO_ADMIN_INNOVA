@@ -17,12 +17,14 @@
       | Tablas de transferencia documental
 
     p Son documentos construidos a partir de las funciones y de la estructura orgánica de cada entidad; en las colectividades públicas, estas deben ser expuestas en sus sitios oficiales, son diseñadas a partir de las funciones de cada dependencia y relacionan los diferentes trámites que adelanta cada una de ellas.
-    p.mb-5 El artículo 24 de la Ley General de Archivo dice: Obligatoriedad de las tablas de retención. Será obligatorio para las entidades del Estado, elaborar y adoptar las respectivas tablas de retención documental.
+    p.mb-5 El artículo 24 de la Ley General de Archivo dice:&nbsp;
+      strong Obligatoriedad de las tablas de retención.&nbsp;
+      | Será obligatorio para las entidades del Estado, elaborar y adoptar las respectivas tablas de retención documental.
 
     .row.mb-5
       .col-lg-6.col-12
         a.anexo.mb-4.mb-lg-0(
-          href='https://en.wikipedia.org/wiki/Main_Page',
+          href='https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=6351#1',
           target='_blank'
         )
           .anexo__icono
@@ -34,7 +36,7 @@
             strong Acuerdo 39 de 2022 Archivo General de la Nación.
       .col-lg-6.col-12
         a.anexo.mb-4.mb-lg-0(
-          href='https://en.wikipedia.org/wiki/Main_Page',
+          href='https://mgd.archivogeneral.gov.co/',
           target='_blank'
         )
           .anexo__icono
@@ -118,25 +120,26 @@
         figure(data-aos='zoom-in')
           img(src='@/assets/template/tema03/t3-i8.svg')
       .col-lg-9.col-12
-        p Para decidir la disposición final de los registros, es importante determinar cuáles documentos serán útiles en el futuro, para reconstruir la vida institucional de la entidad como fuente para fines históricos o científicos, porque son de valor intermedio o secundario. Es una decisión que resulta de una evaluación realizada en cualquier etapa del ciclo del documento, certificada en fichas de registro y revisión para su total conservación, extracción y selección de estas. lo anterior y para una mejor comprensión, es necesario profundizar en la información de cada uno de estos pasos.
+        p Para decidir la disposición final de los registros, es importante determinar cuáles documentos serán útiles en el futuro, para reconstruir la vida institucional de la entidad como fuente para fines históricos o científicos, porque son de valor intermedio o secundario. Es una decisión que resulta de una evaluación realizada en cualquier etapa del ciclo del documento, certificada en fichas de registro y revisión para su total conservación, extracción y selección de estas.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
       | Transferencias documentales 
 
     .row.mb-5
-      .col-lg-9.col-12
+      .col-lg-6.col-12
         .row 
           .col-12
             p Cuando la organización requiere de un proceso de actualización de sus herramientas ofimáticas, servidores, dispositivos de almacenamiento, entre otros, es necesario hacer una migración de la información documental; este proceso requiere atención para evitar pérdidas y reprocesos, se emplean instrumentos específicos para tal finalidad y cada organización puede obtener su respectivo proceso personalizado para sus necesidades. 
           .col-12
             .cajon.cajon-color-1.p-4
-                p Puede definirse como el proceso necesario para realizar la migración o transferencia de datos de un sistema de almacenamiento a otro, o de un software a otro. 
+                p Puede definirse como el proceso necesario para realizar la migración o transferencia de datos de un sistema de almacenamiento a otro, o de un&nbsp;
+                 i software a otro. 
                 p Se debe generar un documento en el que se refleje la gestión realizada, cómo se llevó a cabo la planeación, qué aspectos y riesgos se evaluaron, cómo se puede tener la menor pérdida posible de información digital y un plan de contingencia, en caso de ser requerido.
         
-      .col-lg-3.col-12
+      .col-lg-6.col-12
         figure(data-aos='zoom-in')
-          img(src='@/assets/template/tema03/t3-i8.svg')
+          img(src='@/assets/template/tema03/t3-i14.png')
 
     p.mb-5 La transferencia de documentos es importante por las siguientes razones: 
 
@@ -212,6 +215,8 @@
           )
           .bloque-texto-g__texto.py-4.px-5
             p Y finalizamos este tema con el formato de control, el cual es una herramienta o instrumento destinado para hacer cumplir los procesos y prácticas de la creación, la revisión, la modificación, la publicación, la distribución y la accesibilidad de documentos que son procesos que hacen parte de la gestión; entre los formatos se encuentran los manuales, los procedimientos y los programas.
+            br
+            br
             p La hoja o formato de control se diligencia durante la etapa activa del expediente y como un requisito obligatorio de transferencia al archivo central.              
 
 </template>

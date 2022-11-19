@@ -77,9 +77,8 @@
 
     p.mb-5 Es así como la información digital se convierte en un escenario de atención especial, en donde es vital atender la normativa dispuesta para tal fin, buscando dar cumplimiento y trabajando de manera mancomunada con el gobierno nacional y organizaciones internacionales, así como lo ha propuesto la ONU, en sus objetivos de desarrollo sostenible: política de cero papel y transparencia de la información.
 
-    h3.mb-4
-      i.fas.fa-square.color_texto_acento.me-3
-      | Soportes electrónicos
+    #t_1_1.titulo-segundo.color-acento-contenido
+      h2 1.1 Soportes electrónicos
 
     p.mb-5 Es importante añadir que, dentro de la gestión documental digital, se requiere el uso de soportes electrónicos, aquellos que permiten el registro de información y tienen como función contribuir con las operaciones fundamentales de las organizaciones.
 
@@ -125,7 +124,7 @@
           figure
             img(src='@/assets/template/tema01/t1-i7.png')
 
-      .row(subtitulo='De torre o Tower ')
+      .row(subtitulo='De torre o Tower')
         .col-lg-8
           figure
             img(src='@/assets/template/tema01/t1-i8.png')
@@ -235,9 +234,8 @@
         .cajon.cajon-color-1.p-4
           p.mb-0 Su producción está muy estandarizada, tanto en la metodología como en los materiales utilizados. Todo esto significa que cada una de sus imágenes tiene valor individual, e incluso algunas agencias nacionales y gobiernos aceptan los microfilmes como documentos con valor probatorio en los tribunales.
 
-    h3.mb-4
-      i.fas.fa-square.color_texto_acento.me-3
-      | Las redes: el correo electrónico, la intranet y el internet
+    #t_1_2.titulo-segundo.color-acento-contenido
+      h2 1.2 Las redes: el correo electrónico, la intranet y el internet
 
     .row.mb-5
       .col-lg-7.col-12
@@ -299,7 +297,7 @@
                       alt='AvatarTop'
                     )
                   p.text-center Elementos de&nbsp;
-                    i hardware.. 
+                    i hardware.
 
           .tarjeta.p-4
             .row.justify-content-center.mb-3
@@ -321,12 +319,14 @@
       .col-lg-7.col-12
         .row 
           .col-12
-            p Ahora se abordará el correo electrónico, medio de comunicación conocido como e-mail, que permite a los usuarios enviar y recibir mensajes formales gracias a una red de comunicación.
+            p Ahora se abordará el correo electrónico, medio de comunicación conocido como&nbsp;
+              i e-mail,&nbsp;
+              |que permite a los usuarios enviar y recibir mensajes formales gracias a una red de comunicación.
             p El correo electrónico se basa en un modelo de almacenamiento de datos, de modo que los usuarios no deben estar conectados, sino que el correo hace la función de intermediario y, de manera temporal, envía los mensajes a sus destinatarios y los guarda. 
 
           .col-12
             .cajon.color-primario-card.p-4
-              p.mb-0 Dentro de los cambios trascendentales a los que se ha enfrentado la humanidad, se posiciona en los primeros lugares el acceso a la información, cambio que drásticamente tuvo una repercusión pos-pandemia, porque muchas personas, y organizaciones no estaban preparadas de manera suficiente, para las necesidades de sus usuarios.    
+              p.mb-0 Fue creado antes del Internet, aproximadamente en el año 1962 en Massachusetts. El primer mensaje enviado a través de la Renata se dio en el año 1971, gracias a Ray Tomlinson, quien utilizó un protocolo experimental para enviar los mensajes que en su momento solo comunicaban los usuarios de una misma computadora, y luego incorporó el @ como divisor entre el usuario y la computadora de destino   
 
     p.mb-5 El correo electrónico es muy importante para las organizaciones, porque proporciona un medio digital de contacto continuo con todos los que lo necesitan, y se utiliza para proporcionar y simplificar los procesos comerciales internos y poder comunicarse de manera rápida y eficiente cuando sea necesario, simplificando los procesos empresariales dentro o fuera de la organización.
     p.mb-5 Las partes que componen el correo electrónico son:
@@ -396,7 +396,7 @@
                   img(src='@/assets/template/tema01/t1-i22.png', alt='alt')
               .crd_hover_txt--body
                 h5.mb-3.text-center Internet
-                p.mb-0.text-center proporciona información casi ilimitada para que cualquier persona pueda consultar.
+                p.mb-0.text-center Proporciona información casi ilimitada para que cualquier persona pueda consultar.
 
           .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
             .crd_hover_txt(data-aos='flip-left')
@@ -405,7 +405,7 @@
                   img(src='@/assets/template/tema01/t1-i23.png', alt='alt')
               .crd_hover_txt--body
                 h5.mb-3.text-center Intranet
-                p.mb-0.text-center es donde los datos circulan a través de una organización.
+                p.mb-0.text-center Es donde los datos circulan a través de una organización.
 
     p.mb-3 Ahora, se amplía la información sobre cada uno de estos términos.  
 
@@ -477,7 +477,7 @@
         .row.justify-content-center.mb-4
           .col-12
             figure
-              img(src='@/assets/template/tema01/t1-i30.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/template/tema01/t1-i32.svg', alt='Texto que describa la imagen')
           
         p Ofrece nuevas oportunidades de comunicación.
 

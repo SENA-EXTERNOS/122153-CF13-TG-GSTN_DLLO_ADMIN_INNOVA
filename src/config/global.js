@@ -44,6 +44,21 @@ export default {
         titulo:
           'Las nuevas tecnologías y su aplicación a la gestión documental',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.1',
+            titulo: 'Soportes electrónicos',
+            hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo:
+              'Las redes: el correo electrónico, la intranet y el internet',
+            hash: 't_1_2',
+          },
+        ],
       },
 
       {
@@ -71,7 +86,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Preservación de documentos digitales',
+        titulo: 'Normativa de seguridad y salud en el trabajo',
         desarrolloContenidos: true,
       },
     ],

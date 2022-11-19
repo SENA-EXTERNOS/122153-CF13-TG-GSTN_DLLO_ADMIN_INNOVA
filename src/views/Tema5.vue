@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Preservación de documentos digitales
+      h1 Normativa de seguridad y salud en el trabajo
     .row.mb-5
       .col-lg-5.col-12
         figure(data-aos='zoom-in')
@@ -77,9 +77,11 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema05/t5-i6.png")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
-            p.mb-0 Recuerde: se pueden digitalizar documentos, libros, fotos, transparencias, archivos, expedientes de personal, escrituras, documentos jurídicos, entre otros, y puede implementarse en todo tipo de empresas del sector público o privado, contando con información conveniente para poder ser presentada de forma ágil y segura, sea para procesos internos como auditorías o toma de decisiones, o externos presentados a las autoridades competentes.    
+            p.mb-0 Las ISO especifican los requisitos para un sistema de gestión ambiental que una organización puede utilizar para mejorar su desempeño ambiental y está destinada a una organización que busque gestionar sus responsabilidades ambientales de una manera sistemática que contribuya al pilar ambiental. Su importancia se debe a que ayudan a las empresas y organizaciones a lograr los resultados esperados de su sistema de gestión ambiental, que brindan valor para el medio ambiente, la propia organización y las partes interesadas. La norma ISO 14001:2015 no son aceptables a menos que todos sus requisitos se incorporen al sistema de gestión ambiental de una organización y se cumplan sin exclusión.   
 
-    p.mb-3 El primer estándar reconocido, en este campo, es el estándar EMAS (Eco-Management and Audit Scheme por sus siglas en inglés), que es el reglamento de la Unión Europea relativo a los sistemas de gestión ambiental, definiendo un sistema abierto de auditoría y gestión ambiental para cualquier propiedad, o cualquier tipo de organización a nivel internacional e internacional. Cualquiera que sea su funcionamiento, es un mecanismo voluntario abierto a cualquier organización pública o privada.  
+    p.mb-3 El primer estándar reconocido, en este campo, es el estándar EMAS (&nbsp;
+      i Eco-Management and Audit Scheme&nbsp;
+      | por sus siglas en inglés), que es el reglamento de la Unión Europea relativo a los sistemas de gestión ambiental, definiendo un sistema abierto de auditoría y gestión ambiental para cualquier propiedad, o cualquier tipo de organización a nivel internacional e internacional. Cualquiera que sea su funcionamiento, es un mecanismo voluntario abierto a cualquier organización pública o privada.  
 
     p.mb-5 El reglamento EMAS reconoce que las organizaciones deben tener sus propias responsabilidades a la hora de gestionar el impacto ambiental que generan con sus actividades, servicios o productos, por lo que deben:  
 

@@ -20,7 +20,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .row.justify-content-center.mb-5
-          .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+          .col-xl-6.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
             .crd_hover_txt(data-aos='flip-left')
               .crd_hover_txt--img
                 figure
@@ -29,7 +29,7 @@
                 p.mb-0.text-center Aumentan la capacidad de almacenamiento.
                 br
 
-          .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+          .col-xl-6.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
             .crd_hover_txt(data-aos='flip-left')
               .crd_hover_txt--img
                 figure
@@ -45,7 +45,7 @@
         figure(data-aos='zoom-in')
           img(src='@/assets/template/tema02/t2-i2.png')
 
-    p.mb-5 Los nuevos soportes ofrecen ventajas y mejoras de toda esta información almacenada; en estos apoyos encontramos que:
+    p.mb-5 A continuación, conozcamos cuatro temas importantes cuando se habla de información digital:
 
     .tarjeta.tarjeta--s1.p-5.mb-5
       SlyderA(tipo="b")
@@ -79,7 +79,9 @@
           .col-md-8.mb-4.mb-md-0
             h3 Legalidad de los documentos electrónicos
             p Cuando se habla de legalidad, significa que todo lo realizado es lícito dentro del marco normativo del Estado.
-            p Se concederá documento electrónico a todo contenido que se creó desde una aplicación electrónica y que contiene información que busca facilitar la información entre las partes y es producido por una persona natural o jurídica en el ejercicio de sus funciones y es almacenada por e- mails. En cuanto a la legalidad de estos documentos, existen normas, leyes y decretos como la Ley 527 de 1999, la cual trata la normativa de las reglas digitales, además de la regulación del comercio electrónico de las entidades autorizadas. La eficacia legal, por su valor, se encuentra dentro de un proceso de acuerdo con la normativa legal existente en el país; algunas disposiciones para la validez jurídica de estos documentos electrónicos son: el valor probatorio, las condiciones de prueba y la eficacia legal. Si bien existe un marco legal para proteger los documentos electrónicos, aún no se tiene una norma para proteger estos nuevos medios de todas las características que deben contener los documentos para preservarlos. 
+            p Se concederá documento electrónico a todo contenido que se creó desde una aplicación electrónica y que contiene información que busca facilitar la información entre las partes y es producido por una persona natural o jurídica en el ejercicio de sus funciones y es almacenada por&nbsp;
+              i e- mails.&nbsp;
+              | En cuanto a la legalidad de estos documentos, existen normas, leyes y decretos como la Ley 527 de 1999, la cual trata la normativa de las reglas digitales, además de la regulación del comercio electrónico de las entidades autorizadas. La eficacia legal, por su valor, se encuentra dentro de un proceso de acuerdo con la normativa legal existente en el país; algunas disposiciones para la validez jurídica de estos documentos electrónicos son: el valor probatorio, las condiciones de prueba y la eficacia legal. Si bien existe un marco legal para proteger los documentos electrónicos, aún no se tiene una norma para proteger estos nuevos medios de todas las características que deben contener los documentos para preservarlos. 
 
           .col-md-4
             figure
@@ -92,7 +94,9 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema02/t2-i9.png")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
-            p.mb-0 En la actualidad, gracias a las revoluciones, a los cambios, a la tecnología e innovación, se crean e incorporan nuevas tecnologías a la vida del ser humano, las cuales son creadas para cumplir con un objetivo y brindar ayuda a ciertos servicios de las empresas, para mejorar los procesos realizados. Son un recurso fundamental para el crecimiento de las organizaciones, logrando mejorar los procedimientos de producción, organización y automatización de los procesos, por medio de las nuevas tecnologías como los software, los robots, entre otros, donde no se necesita la intervención humana.
+            p.mb-0 En la actualidad, gracias a las revoluciones, a los cambios, a la tecnología e innovación, se crean e incorporan nuevas tecnologías a la vida del ser humano, las cuales son creadas para cumplir con un objetivo y brindar ayuda a ciertos servicios de las empresas, para mejorar los procesos realizados. Son un recurso fundamental para el crecimiento de las organizaciones, logrando mejorar los procedimientos de producción, organización y automatización de los procesos, por medio de las nuevas tecnologías como los&nbsp;
+              i software,&nbsp;
+              | los robots, entre otros, donde no se necesita la intervención humana.
 
     p Podemos decir entonces que son una serie de nuevos medios como la Internet, la realidad virtual, la televisión por satélite, la multimedia, entre otros, los que giran en torno a la informática, a los audiovisuales y a las telecomunicaciones, con características muy comunes entre sí y que pueden ser utilizadas como recurso visual, audiovisual o auditivo, con un alto nivel de valor educativo.               
 </template>

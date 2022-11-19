@@ -45,7 +45,7 @@
         .row
           .col-lg-8
             AcordionA.mb-5(tipo='a', clase-tarjeta='tarjeta acordeonA')
-              .row(titulo='Normativa legal:')
+              .row(titulo='Normativa legal')
                 .col-12
                   ul
                     li 
@@ -82,7 +82,7 @@
                       i.fas.fa-check.color-icon-check
                       |
                       | Ley 527 de 1999. Ley sobre mensajes de datos, comercio electrónico y firmas digitales.            
-              .row(titulo='Normas técnicas y estándares:')
+              .row(titulo='Normas técnicas y estándares')
                 .col-12
                   ul
                     li 
