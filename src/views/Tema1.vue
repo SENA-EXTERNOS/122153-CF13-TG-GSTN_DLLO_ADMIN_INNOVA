@@ -473,7 +473,7 @@
               img(src='@/assets/template/tema01/t1-i31.svg', alt='Texto que describa la imagen')
           
         p Se puede utilizar para cualquier propósito. 
-      .col-md.tarjeta.bg-04.text-white.p-5
+      .col-md.tarjeta.bg-04.p-5
         .row.justify-content-center.mb-4
           .col-12
             figure
