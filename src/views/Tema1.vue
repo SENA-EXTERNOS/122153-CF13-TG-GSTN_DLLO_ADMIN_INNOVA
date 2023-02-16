@@ -80,12 +80,9 @@
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Soportes electrónicos
 
-    p.mb-5 Es importante añadir que, dentro de la gestión documental digital, se requiere el uso de soportes electrónicos, aquellos que permiten el registro de información y tienen como función contribuir con las operaciones fundamentales de las organizaciones.
+    p.mb-5 Dentro de la gestión documental digital, se requiere el uso de soportes electrónicos, aquellos que permiten el registro de la información y tienen, como función, contribuir con las operaciones fundamentales de las organizaciones.
 
-    p.mb-5 Existen soportes físicos como el&nbsp;
-      i hardware&nbsp;
-      | y lógicos como el&nbsp;
-      i software:
+    p Existen soportes físicos como el <em>hardware</em> y lógicos como el <em>software</em>:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -96,7 +93,7 @@
                 figure
                   img(src='@/assets/template/tema01/t1-i5a.png', alt='alt')
               .crd_hover_txt--body
-                h5.mb-3.text-center Hardware
+                h5.mb-3.text-center <em>Hardware</em>
                 p.mb-0.text-center Se define como el conjunto de componentes físicos que componen un dispositivo.
 
           .col-xl-5.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -105,12 +102,14 @@
                 figure
                   img(src='@/assets/template/tema01/t1-i5.png', alt='alt')
               .crd_hover_txt--body
-                h5.mb-3.text-center Software
+                h5.mb-3.text-center <em>Software</em>
                 p.mb-0.text-center Se define como el conjunto de programas o aplicaciones, instrucciones y reglas informáticas, que permiten que un dispositivo funcione.
       .col-lg-10
         .cajon.cajon-color-1.p-4
-          p Es sustancial tener en cuenta que un ordenador o también llamado computadora personal, es un dispositivo electrónico que procesa, produce, almacena y modifica datos. Está destinado a trabajar con cualquier tipo de documento de forma local o remota.
+          p <b>¡Nota importante!</b>
 
+          p Es sustancial tener en cuenta que un ordenador o también llamado computadora personal, es un dispositivo electrónico que procesa, produce, almacena y modifica datos. Está destinado a trabajar con cualquier tipo de documento de forma local o remota. 
+    
     p.mb-5 Estos ordenadores pueden ser:
 
     LineaTiempoE.color-secundario.mb-5
@@ -210,7 +209,10 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema01/t1-i12.png")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
-            p.mb-0 Recuerde: se pueden digitalizar documentos, libros, fotos, transparencias, archivos, expedientes de personal, escrituras, documentos jurídicos, entre otros, y puede implementarse en todo tipo de empresas del sector público o privado, contando con información conveniente para poder ser presentada de forma ágil y segura, sea para procesos internos como auditorías o toma de decisiones, o externos presentados a las autoridades competentes.
+            p.mb-0 <b>¡Recuerde!</b>
+            br
+            br
+            p Se pueden digitalizar documentos, libros, fotos, transparencias, archivos, expedientes de personal, escrituras, documentos jurídicos, entre otros, y pueden implementarse en todo tipo de empresas del sector público o privado, contando con la información conveniente para ser presentada de forma ágil y segura, sea para procesos internos (auditorías o toma de decisiones) o externos, presentados a las autoridades competentes.
 
     p.mb-4 Igualmente, conozcamos sobre la microfilmación, una herramienta común como sistema de archivo, gestión y distribución de documentos:
 
@@ -232,10 +234,10 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.cajon-color-1.p-4
-          p.mb-0 Su producción está muy estandarizada, tanto en la metodología como en los materiales utilizados. Todo esto significa que cada una de sus imágenes tiene valor individual, e incluso algunas agencias nacionales y gobiernos aceptan los microfilmes como documentos con valor probatorio en los tribunales.
+          p.mb-0 La producción, en la microfilmación, está muy estandarizada, tanto en la metodología como en los materiales utilizados. Todo esto significa que cada una de sus imágenes tiene valor individual inclusive, algunas agencias nacionales y gobiernos, aceptan los microfilmes como documentos con valor probatorio en los tribunales.
 
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2 Las redes: el correo electrónico, la intranet y el internet
+      h2 1.2 Las redes: el correo electrónico, la intranet y el <em>internet</em>
 
     .row.mb-5
       .col-lg-7.col-12
@@ -326,7 +328,7 @@
 
           .col-12
             .cajon.color-primario-card.p-4
-              p.mb-0 Fue creado antes del Internet, aproximadamente en el año 1962 en Massachusetts. El primer mensaje enviado a través de la Renata se dio en el año 1971, gracias a Ray Tomlinson, quien utilizó un protocolo experimental para enviar los mensajes que en su momento solo comunicaban los usuarios de una misma computadora, y luego incorporó el @ como divisor entre el usuario y la computadora de destino   
+              p.mb-0 Fue creado antes del Internet, aproximadamente en el año 1962 en Massachusetts. El primer mensaje enviado a través de la Renata, se dio en el año de 1971, gracias a Ray Tomlinson, quien utilizó un protocolo experimental para enviar los mensajes que, en su momento, solo comunicaban los usuarios de una misma computadora, y luego incorporó el @ como divisor entre el usuario y la computadora destino.
 
     p.mb-5 El correo electrónico es muy importante para las organizaciones, porque proporciona un medio digital de contacto continuo con todos los que lo necesitan, y se utiliza para proporcionar y simplificar los procesos comerciales internos y poder comunicarse de manera rápida y eficiente cuando sea necesario, simplificando los procesos empresariales dentro o fuera de la organización.
     p.mb-5 Las partes que componen el correo electrónico son:
@@ -344,7 +346,8 @@
           y='15.2%',
           numero='1'
         )
-          p.mb-0 Dirección del destinatario: usuario seguido por el símbolo @ y finalmente el dominio o tipo de correo.    
+          p.mb-0 Dirección del destinatario: usuario, seguido por el símbolo @ y, finalmente, el dominio o tipo de correo.
+          
         .tarjeta.color-acento-botones_1.p-3(
           x='63.6%',
           y='15.2%',
@@ -364,27 +367,28 @@
         )
           p.mb-0 Cuerpo del mensaje, no tiene límite de tamaño y se le puede dar formato.    
         .tarjeta.color-acento-botones_1.p-3(
-          x='24.9%',
-          y='93.7%',
+          
+          x='31.4%',
+          y='90.7%',
           numero='5'
         )
           p.mb-0 Botón que permite enviar el mensaje al destinatario.    
         .tarjeta.color-acento-botones_1.p-3(
-          x='31.4%',
+          x='24.9%',
           y='93.7%',
           numero='6'
         )
           p.mb-0 Botón que despliega un menú que permite dar formato al mensaje.   
         .tarjeta.color-acento-botones_1.p-3(
           x='34.3%',
-          y='84%',
+          y='90.7%',
           numero='7'
         )
           p.mb-0 Botón que permite adjuntar archivos al mensaje.
 
     p.mb-5 El siguiente aspecto trata de la intranet y el internet que, aunque comparten características similares, con frecuencia causan confusión.  
 
-    p.mb-5 Se definen cada una de ellas así:
+    p.mb-5 Se definen, cada una de ellas, de la siguiente manera:
     
     .row.justify-content-center.mb-5
       .col-lg-10

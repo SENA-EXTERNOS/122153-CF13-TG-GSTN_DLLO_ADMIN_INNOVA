@@ -153,7 +153,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=yuBO1OAH9L4',
     },
     {
-      tema: 'Preservación documental digital',
+      tema: 'Preservación de documentos digitales',
       referencia:
         'CanalAGNColombia. (2018). <em>Cápsula animada del Plan de Preservación de largo Plazo – PPDL</em> (video). YouTube. ',
       tipo: 'Video',

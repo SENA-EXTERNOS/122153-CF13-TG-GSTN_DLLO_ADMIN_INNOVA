@@ -12,9 +12,9 @@
         figure(data-aos='zoom-in')
           img(src='@/assets/template/tema02/t2-i1.png')
       .col-lg-7.col-12
-        p Los soportes informáticos son aquellos que guardan toda la información importante para su conservación, y de acuerdo con su función de transmisión se divide en directa y no directa. Toda la información que existió en los diferentes soportes de la antigüedad como el papiro, el pergamino y el papel, ahora son registrados con el avance de la tecnología, con otros símbolos (no directos). 
+        p Los soportes informáticos, son aquellos que guardan toda la información importante para su conservación y, de acuerdo con su función de transmisión, se dividen en soportes directos y soportes no directos. 
 
-    p.mb-5 Los nuevos soportes ofrecen ventajas y mejoras de toda esta información almacenada; en estos apoyos encontramos que:
+        p Toda la información que existió en los diferentes soportes de la antigüedad, como el papiro, el pergamino y el papel, ahora son registrados con el avance de la tecnología, con otros símbolos (no directos). 
 
 
     .row.justify-content-center.mb-5
@@ -94,11 +94,13 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema02/t2-i9.png")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
-            p.mb-0 En la actualidad, gracias a las revoluciones, a los cambios, a la tecnología e innovación, se crean e incorporan nuevas tecnologías a la vida del ser humano, las cuales son creadas para cumplir con un objetivo y brindar ayuda a ciertos servicios de las empresas, para mejorar los procesos realizados. Son un recurso fundamental para el crecimiento de las organizaciones, logrando mejorar los procedimientos de producción, organización y automatización de los procesos, por medio de las nuevas tecnologías como los&nbsp;
-              i software,&nbsp;
-              | los robots, entre otros, donde no se necesita la intervención humana.
+            p.mb-0 En la actualidad, gracias a las revoluciones, a los cambios, a la tecnología y a la innovación, se crean e incorporan nuevos mecanismos tecnológicos a la vida del ser humano, los cuales son creados para cumplir con un objetivo y brindar ayuda a ciertos servicios de las empresas y mejorar los procesos realizados, entre otras. 
 
-    p Podemos decir entonces que son una serie de nuevos medios como la Internet, la realidad virtual, la televisión por satélite, la multimedia, entre otros, los que giran en torno a la informática, a los audiovisuales y a las telecomunicaciones, con características muy comunes entre sí y que pueden ser utilizadas como recurso visual, audiovisual o auditivo, con un alto nivel de valor educativo.               
+
+    p Son un recurso fundamental para el crecimiento de las organizaciones, logrando mejorar los procedimientos de producción, organización y automatización de los procesos, por medio de las nuevas tecnologías como los software, los robots, entre otros, donde no se necesita la intervención humana.
+
+    p Podemos decir entonces que son una serie de nuevos medios como la Internet, la realidad virtual, la televisión por satélite, la multimedia, entre otros, los que giran en torno a la informática, a los audiovisuales y a las telecomunicaciones, con características muy comunes entre sí y que pueden ser utilizadas como recurso visual, audiovisual o auditivo, con un alto nivel de valor educativo. 
+
 </template>
 
 <script>

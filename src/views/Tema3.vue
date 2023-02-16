@@ -12,6 +12,7 @@
           img(src='@/assets/template/tema03/t3-i1.png')
       .col-lg-7.col-12
         p Dando continuidad al proceso de gestión documental, esta realiza la selección de documentos que van a ser dados de baja y los que se transferirán a los archivos históricos. Este método es una alternativa en los procesos de la organización, porque garantiza contar con una información veraz, en óptimas condiciones y disponible en cualquier momento, reduciendo costos y facilitando las labores cotidianas en el transcurso de las actividades diarias.
+
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
       | Tablas de transferencia documental
@@ -217,7 +218,8 @@
             p Y finalizamos este tema con el formato de control, el cual es una herramienta o instrumento destinado para hacer cumplir los procesos y prácticas de la creación, la revisión, la modificación, la publicación, la distribución y la accesibilidad de documentos que son procesos que hacen parte de la gestión; entre los formatos se encuentran los manuales, los procedimientos y los programas.
             br
             br
-            p La hoja o formato de control se diligencia durante la etapa activa del expediente y como un requisito obligatorio de transferencia al archivo central.              
+            p La hoja o formato de control se diligencia durante la etapa activa del expediente y como un requisito obligatorio de transferencia al archivo central.
+
 
 </template>
 

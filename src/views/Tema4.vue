@@ -126,28 +126,29 @@
             p Corresponden a los materiales que componen el bien cultural, la tecnología de fabricación y el método constructivo para implementarlo. 
 
           .tarjeta.bg-03.p-4(titulo='Factores extrínsecos')
-            p Se refiere a todos los agentes que provienen de fuentes externas al objeto y no dependen de los bienes culturales. Se clasifican en: 
+            p Se refiere a todos los agentes que provienen de fuentes externas al objeto y no dependen de los bienes culturales. Se clasifican en:
+
             br
             ul
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Ambientales
+                | Ambientales.
               br
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Antropogénicos               
+                | Antropogénicos.               
               br
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Biológicos               
+                | Biológicos.               
               br
               li 
                 i.fas.fa-check.color-icon-check
                 |
-                | Catastróficos 
+                | Catastróficos.
                 
                 .row.mb-5
 
