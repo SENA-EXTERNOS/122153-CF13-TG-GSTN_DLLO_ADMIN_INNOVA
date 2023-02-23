@@ -208,6 +208,11 @@
           )
             p.mb-0 Comprende las etapas de extracción de información, transformación y carga.  
 
+    .row.mt-5
+      h3.mb-4
+        i.fas.fa-square.color_texto_acento.me-3
+        | Formato de control
+    
     .row.justify-content-center.mb-5
       .col-11
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
@@ -215,10 +220,10 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema03/t3-i13.png")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
-            p Y finalizamos este tema con el formato de control, el cual es una herramienta o instrumento destinado para hacer cumplir los procesos y prácticas de la creación, la revisión, la modificación, la publicación, la distribución y la accesibilidad de documentos que son procesos que hacen parte de la gestión; entre los formatos se encuentran los manuales, los procedimientos y los programas.
+            p Se trata de una herramienta o instrumento, destinado para hacer cumplir los procesos y prácticas de la creación, la revisión, la modificación, la publicación, la distribución y la accesibilidad de documentos que son procesos que hacen parte de la gestión; entre los formatos se encuentran: los manuales, los procedimientos y los programas. 
             br
             br
-            p La hoja o formato de control se diligencia durante la etapa activa del expediente y como un requisito obligatorio de transferencia al archivo central.
+            p La hoja o formato de control, se diligencia durante la etapa activa del expediente y como un requisito obligatorio, de transferencia al archivo central.
 
 
 </template>
