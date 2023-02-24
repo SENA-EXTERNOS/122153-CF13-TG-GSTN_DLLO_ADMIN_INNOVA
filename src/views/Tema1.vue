@@ -372,17 +372,17 @@
           y='90.7%',
           numero='5'
         )
-          p.mb-0 Botón que permite enviar el mensaje al destinatario.    
+          p.mb-0 Botón que despliega un menú que permite dar formato al mensaje.   
         .tarjeta.color-acento-botones_1.p-3(
           x='24.9%',
           y='93.7%',
-          numero='6'
+          numero='7'
         )
-          p.mb-0 Botón que despliega un menú que permite dar formato al mensaje.   
+          p.mb-0 Botón que permite enviar el mensaje al destinatario.
         .tarjeta.color-acento-botones_1.p-3(
           x='34.3%',
           y='90.7%',
-          numero='7'
+          numero='6'
         )
           p.mb-0 Botón que permite adjuntar archivos al mensaje.
 
