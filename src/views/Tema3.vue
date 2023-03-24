@@ -146,31 +146,31 @@
 
     .row.justify-content-center.mb-5
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
+        .tarjeta--boton.color-acento-contenido.p-4.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/template/tema03/t3-i9.png', alt='Texto que describa la imagen')
 
-          p.text-small.text-center.color-black Asegura que los ciudadanos tengan acceso a la información. 
+          p.text-center.color-black Asegura que los ciudadanos tengan acceso a la información. 
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
+        .tarjeta--boton.color-acento-contenido.p-4.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/template/tema03/t3-i10.png', alt='Texto que describa la imagen')
 
-          p.text-small.text-center.color-black Evita la creación y acumulación de documentos irrazonables.    
+          p.text-center.color-black Evita la creación y acumulación de documentos irrazonables.    
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
+        .tarjeta--boton.color-acento-contenido.p-4.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/template/tema03/t3-i11.png', alt='Texto que describa la imagen')
 
-          p.text-small.text-center.color-black Asegura y facilita la gestión eficaz y adecuada de los documentos.   
+          p.text-center.color-black Asegura y facilita la gestión eficaz y adecuada de los documentos.   
 
     p.mb-5 Realizar una transferencia de datos de manera correcta, requiere considerar las siguientes etapas:
 
