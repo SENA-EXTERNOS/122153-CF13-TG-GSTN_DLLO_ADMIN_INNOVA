@@ -110,7 +110,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/template/tema05/t5-i10.png', alt='AvatarTop')
-            p.text-center Uso de tecnologías respetuosas con el medio ambiente. 
+            p.text-center Usar tecnologías respetuosas con el medio ambiente. 
 
 
     .row.justify-content-center
