@@ -61,7 +61,7 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h3 Perdurabilidad y conservación de la información en los nuevos soportes
-            p La información digital tiene un proceso de conservación garantizando la protección que permite cuidar la permanencia e integridad de algo; en este caso, los documentos o información digitales.
+            p La información digital tiene un proceso de conservación garantizando la protección que permite cuidar la permanencia e integridad de algo; en este caso, los documentos o información digital.
             p Igualmente, es la parte de la gestión documental que trata de preservar todo el contenido y lograr una conservación a largo plazo lo suficientemente amplia como para implicar cambios en la tecnología. La utilización en las empresas de las nuevas tecnologías, ha permitido mejoras en todos los procesos que desarrollan y existe una serie de soportes electrónicos que permiten que los documentos se conviertan a formato digital; la perdurabilidad y conservación del soporte como medio físico, se considera aproximadamente entre 10 a 30 o máximo 50 años, pero la perdurabilidad para los de información se considera mucho menor; de acuerdo con estudios realizados, se ubican entre tres a cuatro años y en estos casos se puede perder información. 
 
           .col-md-4
@@ -80,7 +80,7 @@
             h3 Legalidad de los documentos electrónicos
             p Cuando se habla de legalidad, significa que todo lo realizado es lícito dentro del marco normativo del Estado.
             p Se concederá documento electrónico a todo contenido que se creó desde una aplicación electrónica y que contiene información que busca facilitar la información entre las partes y es producido por una persona natural o jurídica en el ejercicio de sus funciones y es almacenada por&nbsp;
-              i e- mails.&nbsp;
+              i e-mails.&nbsp;
               | En cuanto a la legalidad de estos documentos, existen normas, leyes y decretos como la Ley 527 de 1999, la cual trata la normativa de las reglas digitales, además de la regulación del comercio electrónico de las entidades autorizadas. La eficacia legal, por su valor, se encuentra dentro de un proceso de acuerdo con la normativa legal existente en el país; algunas disposiciones para la validez jurídica de estos documentos electrónicos son: el valor probatorio, las condiciones de prueba y la eficacia legal. Si bien existe un marco legal para proteger los documentos electrónicos, aún no se tiene una norma para proteger estos nuevos medios de todas las características que deben contener los documentos para preservarlos. 
 
           .col-md-4

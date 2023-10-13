@@ -41,7 +41,7 @@
             .col-lg-12.t-2-nivel1-tarjeta
             .tarjeta--boton.p-4.t-2-nivel2-tarjeta.bg-01
               .row.justify-content-center.mb-3.t-2-nivel3-tarjeta.mb-4
-                .col-lg-5.col-3
+                .col-lg-5.col-sm-6.col-3
                   figure
                     img(
                       src='@/assets/template/tema01/t1-i2.png',
@@ -54,7 +54,7 @@
             .col-lg-12.t-2-nivel1-tarjeta
             .tarjeta--boton.p-4.t-2-nivel2-tarjeta.bg-02
               .row.justify-content-center.mb-3.t-2-nivel3-tarjeta.mb-4
-                .col-lg-5.col-3
+                .col-lg-5.col-sm-6.col-3
                   figure
                     img(
                       src='@/assets/template/tema01/t1-i3.png',
@@ -234,7 +234,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.cajon-color-1.p-4
-          p.mb-0 La producción, en la microfilmación, está muy estandarizada, tanto en la metodología como en los materiales utilizados. Todo esto significa que cada una de sus imágenes tiene valor individual inclusive, algunas agencias nacionales y gobiernos, aceptan los microfilmes como documentos con valor probatorio en los tribunales.
+          p.mb-0 La producción, en la microfilmación, está muy estandarizada, tanto en la metodología como en los materiales utilizados. Todo esto significa que cada una de sus imágenes tiene valor individual, inclusive, algunas agencias nacionales y gobiernos, aceptan los microfilmes como documentos con valor probatorio en los tribunales.
 
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 Las redes: el correo electrónico, la intranet y el <em>internet</em>

@@ -81,7 +81,7 @@
 
     p.mb-3 El primer estándar reconocido, en este campo, es el estándar EMAS (&nbsp;
       i Eco-Management and Audit Scheme&nbsp;
-      | por sus siglas en inglés), que es el reglamento de la Unión Europea relativo a los sistemas de gestión ambiental, definiendo un sistema abierto de auditoría y gestión ambiental para cualquier propiedad, o cualquier tipo de organización a nivel internacional e internacional. Cualquiera que sea su funcionamiento, es un mecanismo voluntario abierto a cualquier organización pública o privada.  
+      | por sus siglas en inglés), que es el reglamento de la Unión Europea relativo a los sistemas de gestión ambiental, definiendo un sistema abierto de auditoría y gestión ambiental para cualquier propiedad, o cualquier tipo de organización a nivel nacional e internacional. Cualquiera que sea su funcionamiento, es un mecanismo voluntario abierto a cualquier organización pública o privada.  
 
     p.mb-5 El reglamento EMAS reconoce que las organizaciones deben tener sus propias responsabilidades a la hora de gestionar el impacto ambiental que generan con sus actividades, servicios o productos, por lo que deben:  
 

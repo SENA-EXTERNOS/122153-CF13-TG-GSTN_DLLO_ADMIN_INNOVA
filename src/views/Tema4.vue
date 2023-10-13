@@ -8,7 +8,7 @@
       h1 Preservación de documentos digitales
     .row.mb-5
       .col-lg-7.col-12
-        p Teniendo presente lo visto a lo largo del componente formativo, reconocemos la importancia que las organizaciones cuenten con una información en la que primen las características propias aún con el pasar del tiempo y se pueda apreciar su autenticidad y originalidad; para asegurar que esto se cumpla, las organizaciones deben velar por conservar su documentación.
+        p Teniendo presente lo visto a lo largo del componente formativo, reconocemos la importancia de que las organizaciones cuenten con una información en la que primen las características propias aún con el pasar del tiempo y se pueda apreciar su autenticidad y originalidad; para asegurar que esto se cumpla, las organizaciones deben velar por conservar su documentación.
       .col-lg-5.col-12
         figure(data-aos='zoom-in')
           img(src='@/assets/template/tema04/t4-i1.png')
