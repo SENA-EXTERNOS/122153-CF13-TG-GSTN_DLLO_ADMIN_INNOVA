@@ -121,11 +121,11 @@
             alt='Texto que describa la imagen'
           ) 
       .col-lg-9
-        TabsA.color-acento-contenido.fz-13
-          .tarjeta.bg-03.p-4(titulo='Factores intrínsecos')
+        TabsC.color-acento-contenido.fz-13
+          .tarjeta.bg-03.p-4.mb-4(titulo='Factores intrínsecos')
             p Corresponden a los materiales que componen el bien cultural, la tecnología de fabricación y el método constructivo para implementarlo. 
 
-          .tarjeta.bg-03.p-4(titulo='Factores extrínsecos')
+          .tarjeta.bg-03.p-4.mb-4(titulo='Factores extrínsecos')
             p Se refiere a todos los agentes que provienen de fuentes externas al objeto y no dependen de los bienes culturales. Se clasifican en:
 
             br
